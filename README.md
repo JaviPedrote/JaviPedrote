@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.kodedev.tech/" <img src="https://github.com/JaviPedrote/JaviPedrote/blob/main/logo.png" alt="Javi - Desarrollador" width="200"><a/>
+  <a href="https://www.kodedev.tech/" ><img src="https://github.com/JaviPedrote/JaviPedrote/blob/main/logo.png" alt="Javi - Desarrollador" width="200"<a/>
 </p>
 
 ## Hola 👋 Soy Javier Pedrote
