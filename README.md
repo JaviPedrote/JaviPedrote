@@ -9,4 +9,9 @@ Otras herramientas: Git, GitHub, diseño de software y arquitectura de software
 🎯 Sobre mí:
 Me apasiona el desarrollo de software y siempre estoy explorando nuevas tecnologías para seguir mejorando. Actualmente, me especializo en React para frontend y Node.js con NestJS para backend.
 
-Si quieres conocer más sobre mi trabajo, ¡explora mis proyectos en GitHub! 😊
+Si quieres conocer más sobre mi trabajo, ¡explora mis proyectos haciendo click en el siguiente logo! 😊
+
+<p align="center">
+  <img src="(https://github.com/JaviPedrote/JaviPedrote/blob/main/logo.png?raw=true)" alt="Javi - Desarrollador" width="600">
+</p>
+
