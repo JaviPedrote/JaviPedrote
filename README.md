@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/JaviPedrote/JaviPedrote/blob/main/logo.png" alt="Javi - Desarrollador" width="250">
+  <img src="https://github.com/JaviPedrote/JaviPedrote/blob/main/logo.png" alt="Javi - Desarrollador" width="150">
 </p>
 
 ## Hola 👋 ¿Soy Javier Pedrote
