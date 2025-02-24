@@ -12,6 +12,6 @@ Me apasiona el desarrollo de software y siempre estoy explorando nuevas tecnolog
 Si quieres conocer más sobre mi trabajo, ¡explora mis proyectos haciendo click en el siguiente logo! 😊
 
 <p align="center">
-  <img src="(https://github.com/JaviPedrote/JaviPedrote/blob/main/logo.png)" alt="Javi - Desarrollador" width="600">
+  <img src="https://github.com/JaviPedrote/JaviPedrote/blob/main/logo.png" alt="Javi - Desarrollador" width="600">
 </p>
 
