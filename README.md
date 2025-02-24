@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/JaviPedrote/JaviPedrote/blob/main/logo.png" alt="Javi - Desarrollador" width="150">
+  <img src="https://github.com/JaviPedrote/JaviPedrote/blob/main/logo.png" alt="Javi - Desarrollador" width="200">
 </p>
 
-## Hola 👋 ¿Soy Javier Pedrote
+## Hola 👋 Soy Javier Pedrote
 
 Soy Desarrollador de Aplicaciones Multiplataforma (DAM) con experiencia en el desarrollo web y backend. Además de mi formación académica, he ampliado mis conocimientos de forma autodidacta en diversas tecnologías modernas.
 
